@@ -16,10 +16,11 @@ N/A
 This is a simple webpage that merely keeps information organised. 
 One can easily browse through the sections covering various topics such as; *HTML, CSS, Git and Javascript*. 
 
-However, it is possible for one to open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows), in order to see the Javascript running. 
-A list of topics covered in the prework will be shown, as well as a suggestion on what topic to study first.
+However, it is possible for one to open the Chrome DevTools by pressing `Command+Option+I` (macOS) or `Control+Shift+I` (Windows), in order to see the Javascript running. 
+A list of topics covered in the prework will be shown, as well as a suggestion on which topic to study first.
 
 **See a preview below:**
+![Chrome DevTools Preview](https://i.ibb.co/7KkDM7t/console-preview-50.png)
 
 ## Credits
 
